@@ -37,9 +37,6 @@
 Choose your platform and follow the official instructions on the Releases pages:
 
 <p align="center">
-  <a href="https://github.com/linux-brat/BTor/releases/tag/Windows">
-    <img src="https://img.shields.io/badge/Refer%20to%20Windows%20Release-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Release"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://github.com/linux-brat/BTor/releases/tag/Linux">
     <img src="https://img.shields.io/badge/Refer%20to%20Linux%20Release-2ea44f?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Release"/>
