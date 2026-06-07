@@ -85,3 +85,5 @@ BTOR_SERVICE_NAME=tor@default.service btor start
 ## 📜 License
 
 MIT License © 2025 [linux-brat](LICENSE)
+
+<sub>Made With Love</sub>
