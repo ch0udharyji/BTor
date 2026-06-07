@@ -19,7 +19,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20for-Linux-2ea44f?style=for-the-badge&logo=linux" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Made%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Tor-Network-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/>
 </p>
